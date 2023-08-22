@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gohel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgohel327&theme=tokyonight&layout=compact)
 - 🔭 I’m currently working on [Experro](https://www.experro.com/)
 
 - 🌱 I’m currently learning **MVC Architecture REACT ROTER DOM JAVASCRIPT HTML Type Script Redux DOCKER Worked on scalable and robust web apps using React Js. Implemented UI using HTML, CSS, and some third party libraries like Material UI and Elastic UI . Involved in API integration and worked with backend developers to tune the API response and used token-based authentication. Execute various tasks with timelines . TOOLS: WEBSTORM / VSCODE / JEERA /YOUTRACK GITHUB/GITLAB ES5,ES6 OS: MAC/LINUX/WINDOWS NODEJS (Intermediate) Shogun Frontend Node JS Express MongoDB**
